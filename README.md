@@ -1,8 +1,5 @@
 # 이미지 아웃라인 생성기
-<p align="center">
-  <img src="image.png" width="480" height="380" alt="이미지 아웃라인 생성기 스크린샷">
-</p>
-
+<img src="image.png">
 
 이 프로그램은 GUI 기반의 이미지 아웃라인 생성 도구입니다. 사용자가 선택한 이미지에 아웃라인을 추가하고 결과를 저장할 수 있습니다.
 
